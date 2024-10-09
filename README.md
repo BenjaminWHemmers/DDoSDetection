@@ -49,6 +49,7 @@ Upon execution, the script will:
 After training the model, the evaluation metrics will be printed, including the confusion matrix and the classification report. Here are the results obtained from the model evaluation:
 
    Classification Report:
+   
               precision    recall  f1-score   support
 
            0       0.96      0.99      0.97     19405

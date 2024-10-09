@@ -55,5 +55,5 @@ After training the model, the evaluation metrics will be printed, including the 
            1       0.99      0.97      0.98     25744
 
     accuracy                           0.98     45149
-   macro avg       0.98      0.98      0.98     45149
-weighted avg       0.98      0.98      0.98     45149
+    macro avg      0.98      0.98      0.98     45149
+    weighted avg   0.98      0.98      0.98     45149
